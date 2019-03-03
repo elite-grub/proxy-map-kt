@@ -1,0 +1,25 @@
+{
+  "name": "proxy-map-kt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-grub/proxy-map-kt.git"
+  },
+  "keywords": [],
+  "author": "Kenneth Trott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elite-grub/proxy-map-kt/issues"
+  },
+  "homepage": "https://github.com/elite-grub/proxy-map-kt#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
