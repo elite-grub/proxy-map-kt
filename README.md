@@ -27,6 +27,7 @@
 
 From within the root directory:
 
+npm run start
 
 npm install -g webpack
 npm install
